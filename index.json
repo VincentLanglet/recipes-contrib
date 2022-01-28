@@ -1,0 +1,18 @@
+{
+    "aliases": [],
+    "recipes": {
+        "qossmic/deptrac-shim": [
+            "0.7",
+            "0.19"
+        ]
+    },
+    "versions": [],
+    "branch": "master",
+    "is_contrib": true,
+    "_links": {
+        "repository": "github.com/symfony/recipes-contrib",
+        "origin_template": "{package}:{version}@github.com/symfony/recipes-contrib:master",
+        "recipe_template": "https://raw.githubusercontent.com/symfony/recipes-contrib/flex/pull-1346/{package_dotted}.{version}.json",
+        "archived_recipes_template": "https://raw.githubusercontent.com/symfony/recipes-contrib/flex/pull-1346/archived/{package_dotted}/{ref}.json"
+    }
+}
