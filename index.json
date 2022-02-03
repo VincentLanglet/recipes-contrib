@@ -1,0 +1,17 @@
+{
+    "aliases": [],
+    "recipes": {
+        "snc/redis-bundle": [
+            "2.0"
+        ]
+    },
+    "versions": [],
+    "branch": "master",
+    "is_contrib": true,
+    "_links": {
+        "repository": "github.com/symfony/recipes-contrib",
+        "origin_template": "{package}:{version}@github.com/symfony/recipes-contrib:master",
+        "recipe_template": "https://raw.githubusercontent.com/symfony/recipes-contrib/flex/pull-1350/{package_dotted}.{version}.json",
+        "archived_recipes_template": "https://raw.githubusercontent.com/symfony/recipes-contrib/flex/pull-1350/archived/{package_dotted}/{ref}.json"
+    }
+}
